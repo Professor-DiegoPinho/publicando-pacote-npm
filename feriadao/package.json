@@ -1,0 +1,12 @@
+{
+  "name": "feriadao",
+  "version": "1.0.2",
+  "description": "Descubra se hoje é feriado!",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "feriado"
+  ],
+  "author": "Diego M. de Pinho",
+  "license": "ISC"
+}
